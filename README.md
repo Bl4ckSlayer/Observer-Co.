@@ -2,9 +2,9 @@
 
 ### Live Website:
 
-# [OBSERVER Co. ](https://vocal-maamoul-239075.netlify.app/)
+# [OBSERVER Co. ](https://bejewelled-daffodil-c93c2d.netlify.app/)
 
-# [CodeLink](https://github.com/Bl4ckSlayer/spacex-projects)
+# [CodeLink](https://github.com/Bl4ckSlayer/Observer-Co.)
 
 # `Project Description`
 
@@ -15,10 +15,6 @@
 - React Tailwind
 - React Icons
 - react Spinner
-- Redux
-- RTK
-- Store
 - DaisyUi
-- Search by name
-- filter by Launch status,date,upcoming
-- Single page launch
+- Dynamic Contact form
+- fictional landing page
