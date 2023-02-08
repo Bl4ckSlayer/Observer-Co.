@@ -1,0 +1,8 @@
+.topbg {
+  background-image: url(https://www.observepoint.com/wp-content/uploads/2022/06/Home_hero_bg_v2-1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  max-height: 600px;
+  max-width: 100%;
+}
